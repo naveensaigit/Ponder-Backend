@@ -2,7 +2,7 @@
 This is the code for Ponder App's Backend.
 The backend is written in python and we have used Flask for providing the API endpoints.
 
-Steps to start backend:
+Steps to start backend (for Ubuntu):
 
 1. Create a virtual environment.
       `python -m venv env`
