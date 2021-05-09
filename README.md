@@ -6,9 +6,11 @@ Steps to start backend:
 
 1. Create a virtual environment.
       `python -m venv env`
-2. Install requirements.
+2. Activate virtual environment.
+      `source env/bin/activate`
+3. Install requirements.
       `pip install -r requirements.txt`
-3. Run app.py.
+4. Run app.py.
       `python app.py`
 
 To use this locally hosted runtime in the Ponder App, we used `ngrok` and changed the corresponding URL in `Ponder-Frontend` to include this URL.
