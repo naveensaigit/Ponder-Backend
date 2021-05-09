@@ -1,0 +1,4 @@
+__pycache__
+.vscode
+env
+question_generation/__pycache__
