@@ -15,3 +15,6 @@ Steps to start backend :
 
 To use this locally hosted runtime in the Ponder App, we used `ngrok` and changed the corresponding URL in [`Ponder-Frontend`](https://github.com/naveensaigit/Ponder-Frontend) to include this URL.
 
+
+#### Repos used for reference-
+- [question_generation](https://github.com/patil-suraj/question_generation), for Neural question generating using transformers 
